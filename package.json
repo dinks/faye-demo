@@ -1,0 +1,12 @@
+{
+  "name": "blinkist-tracker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No Tests yet'"
+  },
+  "dependencies": {
+    "faye": "^1.1.2"
+  }
+}
